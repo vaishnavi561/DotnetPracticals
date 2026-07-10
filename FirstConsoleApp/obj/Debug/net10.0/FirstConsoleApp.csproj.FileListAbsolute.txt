@@ -1,0 +1,14 @@
+C:\netPractical\FirstConsoleApp\bin\Debug\net10.0\FirstConsoleApp.exe
+C:\netPractical\FirstConsoleApp\bin\Debug\net10.0\FirstConsoleApp.deps.json
+C:\netPractical\FirstConsoleApp\bin\Debug\net10.0\FirstConsoleApp.runtimeconfig.json
+C:\netPractical\FirstConsoleApp\bin\Debug\net10.0\FirstConsoleApp.dll
+C:\netPractical\FirstConsoleApp\bin\Debug\net10.0\FirstConsoleApp.pdb
+C:\netPractical\FirstConsoleApp\obj\Debug\net10.0\FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\netPractical\FirstConsoleApp\obj\Debug\net10.0\FirstConsoleApp.AssemblyInfoInputs.cache
+C:\netPractical\FirstConsoleApp\obj\Debug\net10.0\FirstConsoleApp.AssemblyInfo.cs
+C:\netPractical\FirstConsoleApp\obj\Debug\net10.0\FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\netPractical\FirstConsoleApp\obj\Debug\net10.0\FirstConsoleApp.dll
+C:\netPractical\FirstConsoleApp\obj\Debug\net10.0\refint\FirstConsoleApp.dll
+C:\netPractical\FirstConsoleApp\obj\Debug\net10.0\FirstConsoleApp.pdb
+C:\netPractical\FirstConsoleApp\obj\Debug\net10.0\FirstConsoleApp.genruntimeconfig.cache
+C:\netPractical\FirstConsoleApp\obj\Debug\net10.0\ref\FirstConsoleApp.dll
