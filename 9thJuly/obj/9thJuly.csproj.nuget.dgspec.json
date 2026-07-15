@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\netPractical\\9thJuly\\9thJuly.csproj": {}
+    "C:\\netPractical\\9thJuly\\9thJuly.csproj": {}
   },
   "projects": {
-    "c:\\netPractical\\9thJuly\\9thJuly.csproj": {
+    "C:\\netPractical\\9thJuly\\9thJuly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\netPractical\\9thJuly\\9thJuly.csproj",
+        "projectUniqueName": "C:\\netPractical\\9thJuly\\9thJuly.csproj",
         "projectName": "9thJuly",
-        "projectPath": "c:\\netPractical\\9thJuly\\9thJuly.csproj",
+        "projectPath": "C:\\netPractical\\9thJuly\\9thJuly.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "c:\\netPractical\\9thJuly\\obj\\",
+        "outputPath": "C:\\netPractical\\9thJuly\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,5 @@
+C:\netPractical\13thJuly\obj\Debug\net10.0\12thJuly.GeneratedMSBuildEditorConfig.editorconfig
+C:\netPractical\13thJuly\obj\Debug\net10.0\12thJuly.AssemblyInfoInputs.cache
+C:\netPractical\13thJuly\obj\Debug\net10.0\12thJuly.AssemblyInfo.cs
+C:\netPractical\13thJuly\obj\Debug\net10.0\12thJuly.csproj.CoreCompileInputs.cache
+C:\netPractical\13thJuly\obj\Debug\net10.0\12thJuly.sourcelink.json

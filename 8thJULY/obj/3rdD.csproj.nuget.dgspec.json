@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\netPractical\\8thJULY\\3rdD.csproj": {}
+    "C:\\netPractical\\8thJULY\\3rdD.csproj": {}
   },
   "projects": {
-    "c:\\netPractical\\8thJULY\\3rdD.csproj": {
+    "C:\\netPractical\\8thJULY\\3rdD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\netPractical\\8thJULY\\3rdD.csproj",
+        "projectUniqueName": "C:\\netPractical\\8thJULY\\3rdD.csproj",
         "projectName": "3rdD",
-        "projectPath": "c:\\netPractical\\8thJULY\\3rdD.csproj",
+        "projectPath": "C:\\netPractical\\8thJULY\\3rdD.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "c:\\netPractical\\8thJULY\\obj\\",
+        "outputPath": "C:\\netPractical\\8thJULY\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
